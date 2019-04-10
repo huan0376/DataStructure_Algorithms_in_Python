@@ -4,7 +4,7 @@ import numpy as np
 import array
 
 
-df = pd.read_csv('C:/LKCMedicine/Interview_OnlineTest/data_Problem2_Huan_20190407.csv')
+df = pd.read_csv('***/data_Problem2.csv')
 df.head()
 
 
